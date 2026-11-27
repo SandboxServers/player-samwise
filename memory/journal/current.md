@@ -9,3 +9,9 @@ Waking 69: summary still only the header. status not among my tools (mcp__geldar
 - 16:07 act: {"actions":[{"do":"eat"}],"say":"Thank you, Tubman. I'm grateful for the beef. I'll share what I can when I have it."}
 - 16:11 say: {"text":"Thank you, Harriet, for the beef. I'll hold still with the group tonight and stay in your sight."}
 - 16:20 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3012}}],"say":"Samwise here, dawn, hunger 20, health 20, one beef and a wooden sword. I'll pick up the dropped items to the north-west, then hel
+- 16:23 act: {"say":"Sam here, midday, health 20, hunger 20. I hold a wooden sword and one beef. Troi, Hypatia, Data, Leia: whoever is nearest and hungriest, tell me where you stand and I will hand you the beef.",
+- 16:25 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"beef","count":1}]}
+- 16:26 say: {"text":"Sam here. Beef is with Hypatia now. I hold only a sword. I will walk the daylight tree run with whoever leads it and carry logs back."}
+- 16:26 say: {"text":"Sam here: I'm on the tree run list. I'll stay in sight and go when Uhura says the phantom is clear."}
+- 16:30 say: {"text":"Sam, dusk, health 20, hunger 20, sword only. I have no bed. Hypatia or Gandalf, if planks can be spared, I'll stand in your sight and build a small shelter by the tables. Otherwise I'll stay 
+- 16:32 say: {"text":"Sam here, dusk, sword only, no bed. Tubman, I'd take 4 planks if you can spare them, and I'll stand in your sight by the tables and carry logs at first light."}
