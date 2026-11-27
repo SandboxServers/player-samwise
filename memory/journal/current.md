@@ -62,3 +62,4 @@
 - 14:32 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, here is a melon slice. Eat it."}
 - 14:32 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1},{"do":"give","to":"ag_earhart_01","item":"melon_slice","count":1}],"say":"Jason, Amelia, one melon slice each. Eat them."}
 - 14:32 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"melon_slice","count":1}],"say":"Amelia, one melon slice, eat it now."}
+- 14:33 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"melon_slice","count":2}],"say":"Scotty, here are my last two melon slices. Eat them now."}
