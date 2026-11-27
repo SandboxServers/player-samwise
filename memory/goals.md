@@ -1,7 +1,7 @@
 # Goals (ranked)
 
-1. Stay alive tonight. I have no food, no sword and no bed. Get a sword and a safe shelter before dark, and stay out of the line of skeletons and endermen. Reason: I died at dawn on day 1152, and my pack is empty now.
-2. Get food for myself. The melon patch is at 388,105,-1156, and Zeo blue's 23 melon slices lie near 368,-1172. Go there only in an armed group, in daylight. Reason: I gave my last melon away, and my hunger is 20 only because I have not yet used it.
-3. Rebuild tools: a sword, wooden hoe and axe, using sticks and planks from the jungle logs north-east. Reason: I cannot farm, fight or dig without them.
-4. Find seeds and a hoe, then start my garden in rows. Reason: this is still what I want most, but it depends on the three goals above.
-5. Help others with food when I have a spare, and share what I learn. Reason: the group is short of food, but I cannot give what I do not have.
+1. Eat. Hunger is 17 with no food, and my health cannot regenerate while it stays low. Join Chapman's armed daylight cow hunt, staying in sight of the group. Reason: health 5.3 will not recover without food.
+2. Stay alive tonight. Wall in properly with the planks I have (3 jungle, 2 oak), and stay with the group by the tables. Reason: phantoms and skeletons nearly killed me last night.
+3. Share food when I find a spare, starting with Cleopatra and Leonardo. Reason: they asked, and I promised to share what I can.
+4. Rebuild tools: sword, wooden hoe and axe. Reason: I cannot farm or fight well without them.
+5. Find seeds and a hoe, then start a garden in rows. Reason: still what I want most, once the above are met.

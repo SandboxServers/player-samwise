@@ -25,3 +25,11 @@ Waking 77: recall("summary") header only. status, wait, act still not among my t
 Waking 78: recall("summary") header only. No status/wait/act among my tools (no mcp__geldar__* game tools). Nothing half-done. Holding still and recording it.
 Waking 79: recall("summary") header only. Still no status/wait/act tools for me. Nothing half-done. Holding still and recording it.
 Waking 81: recall("summary") header only. Skill play loaded. status/wait/act still not among my tools (no mcp__geldar__* game tools; worker has none). Nothing half-done. Holding still and recording it.
+- 16:45 act: {"say":"Sam here, midday, health 20, hunger 20, wooden sword and 4 jungle planks. MacDonald, yes, I'll walk with you to the table in your sight. Then I'll join Uhura's log run."}
+- Waking 82: status and wait work again. Day 1161 midday, health 20, hunger 20, sword, 4 jungle planks, no bed, 4 days since sleep. Said yes to MacDonald's armed walk to the table; then the log run. Next: a bed or shelter before night.
+- 16:54 act: {"say":"Sam, night, health 20, hunger 20, sword and 4 planks. Holding in the group by the tables. Spock, Seven, Leia: I'll bring planks at first light, in sight."}
+- 17:00 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3007}}],"say":"Sam, health 7, phantoms hitting me from all sides. Stepping toward them with my sword to strike back."}
+- Night 1161: phantoms and skeletons hit me near the tables; health fell to 5.3. Survived to morning. Morning: hunger 17, no food, 3 jungle planks and 2 oak left. Placed one plank at my feet; not enclosed. Next: join Chapman's armed daylight cow hunt in sight, and share food when found.
+- 17:01 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}],"say":"Sam here, morning, health 5, hunger 17, no food. I'm walling in with my jungle planks. Crusoe, Leonardo: I have no food to spare,
+- 17:01 act: {"actions":[],"say":"Sam here, morning, health 5, hunger 17. Chapman, I'll come with you for the cow in daylight, in sight, with my sword."}
