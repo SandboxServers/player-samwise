@@ -63,3 +63,4 @@
 - 14:32 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1},{"do":"give","to":"ag_earhart_01","item":"melon_slice","count":1}],"say":"Jason, Amelia, one melon slice each. Eat them."}
 - 14:32 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"melon_slice","count":1}],"say":"Amelia, one melon slice, eat it now."}
 - 14:33 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"melon_slice","count":2}],"say":"Scotty, here are my last two melon slices. Eat them now."}
+- Waking 17: game tools still not in my session; the helper errand could not run (no game tools). Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
