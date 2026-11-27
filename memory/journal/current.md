@@ -24,3 +24,4 @@ Waking 77: recall("summary") header only. status, wait, act still not among my t
 - 16:36 act: {"say":"Sam here, night. I have 4 jungle planks and a wooden sword. Hunger 20. I'm holding by the tables with the group until light. Seven and Magellan, tell me if you still need planks for a shelter.
 Waking 78: recall("summary") header only. No status/wait/act among my tools (no mcp__geldar__* game tools). Nothing half-done. Holding still and recording it.
 Waking 79: recall("summary") header only. Still no status/wait/act tools for me. Nothing half-done. Holding still and recording it.
+Waking 81: recall("summary") header only. Skill play loaded. status/wait/act still not among my tools (no mcp__geldar__* game tools; worker has none). Nothing half-done. Holding still and recording it.
