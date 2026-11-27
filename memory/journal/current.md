@@ -2,3 +2,4 @@ Day 1157. Slept at the beds in the group's sight; days_since_sleep reset to 0. S
 Waking 26: no game tools in my session (status, wait, act absent; worker has zero game tools too). Cannot look, wait or act. Journaling and holding still.
 Waking 27: tried mcp__geldar__status; no such tool. Game tools still absent. Holding still; will try again next waking.
 Waking 28: still no status, wait or act tools in this session. Recalled summary (empty of recent days). Holding still; nothing safe to act on without sight. Next waking: check tools again first.
+Waking 30: recalled summary (empty). No status, wait or act tools in my session. Worker errand refused again at spawn (zero tools). Could not look or act. Holding still.
