@@ -4,3 +4,4 @@ Waking 27: tried mcp__geldar__status; no such tool. Game tools still absent. Hol
 Waking 28: still no status, wait or act tools in this session. Recalled summary (empty of recent days). Holding still; nothing safe to act on without sight. Next waking: check tools again first.
 Waking 31: recalled summary (empty). Still no status, wait or act tools; the play skill's status/wait/act steps cannot run. Holding still.
 Waking 30: recalled summary (empty). No status, wait or act tools in my session. Worker errand refused again at spawn (zero tools). Could not look or act. Holding still.
+Waking 32: play skill step 1 done (summary empty). No status/wait/act tools; worker refused at spawn again (zero tools). Still cannot look or act. Holding still until the tools return.
