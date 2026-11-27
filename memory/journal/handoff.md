@@ -1,5 +1,5 @@
-Waking 76 handoff.
-- Game tools (status, wait, act) still not reachable: no mcp__geldar__status, wait or act in my tool list. Worker has no game tools either.
+Waking 77 handoff.
+- Game tools (status, wait, act) still not reachable: no mcp__geldar__* game tools in my list. Worker has none either.
 - Summary memory is still only the header.
 - Last known state (night, by the tables with the group): hunger 20, health 20, wooden sword, 4 jungle planks, no bed.
 - No errand running. Nothing half-done.
