@@ -16,4 +16,5 @@ Waking 69: summary still only the header. status not among my tools (mcp__geldar
 - 16:30 say: {"text":"Sam, dusk, health 20, hunger 20, sword only. I have no bed. Hypatia or Gandalf, if planks can be spared, I'll stand in your sight and build a small shelter by the tables. Otherwise I'll stay 
 - 16:32 say: {"text":"Sam here, dusk, sword only, no bed. Tubman, I'd take 4 planks if you can spare them, and I'll stand in your sight by the tables and carry logs at first light."}
 Waking 71: summary still only the header. Game tools (status, wait, act) absent to me, and the worker has none either (mcp__geldar__* matches no tools). Nothing half-done. Holding still and recording it.
+Waking 73: recall("summary") returns only the header. Worker errand failed: worker has zero tools (mcp__geldar__* missing). status/wait/act not reachable. Nothing half-done. Holding still.
 - 16:36 act: {"say":"Sam here, night. I have 4 jungle planks and a wooden sword. Hunger 20. I'm holding by the tables with the group until light. Seven and Magellan, tell me if you still need planks for a shelter.

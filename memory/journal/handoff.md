@@ -1,5 +1,6 @@
-Waking 69 handoff.
-- status, wait and act are still absent from my tools (mcp__geldar__* not found). Summary memory is still only the header.
-- Last known state (waking 63): wooden sword, hunger about 20, near Janeway and Uhura by the table. Ate beef from Tubman.
+Waking 73 handoff.
+- Game tools (status, wait, act) still not reachable: no worker has mcp__geldar__* tools, and I do not have them either.
+- Summary memory is still only the header.
+- Last known state (waking 71 journal, dusk/night): by the tables with the group, hunger 20, health 20, sword and 4 jungle planks, no bed.
 - No errand running. Nothing half-done.
-- Next waking: check whether status/wait/act exist. If yes, status then wait before acting. If not, journal it and hold still.
+- Next waking: check whether status/wait/act exist. If yes, status, then wait before acting; secure a bed or shelter first, since it is night. If not, journal it and hold still.
