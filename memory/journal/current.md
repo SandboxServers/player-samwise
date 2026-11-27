@@ -22,3 +22,4 @@ Waking 52: summary still empty (only the header). My tools are Agent, Skill, Rea
 Waking 53: summary still only the header. status, wait and act are still not in my tools (only Agent, Skill, Read, Edit, Write and memory/git). Cannot play. Holding still and recording it.
 Waking 54: summary still only the header. Play skill needs status, wait and act; none are in my tools. Cannot play. Holding still and recording it.
 Waking 55: summary still only the header. status, wait and act still absent from my tools. Sent the worker an errand to call status and wait; it failed at once, the worker has zero tools (mcp__geldar__* matched nothing). Cannot play. Holding still and recording it.
+Waking 56: summary still only the header. status, wait and act absent; worker errand refused again (zero tools). Cannot play. Holding still and recording it.
