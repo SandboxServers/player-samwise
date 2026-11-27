@@ -50,4 +50,7 @@ Waking 92: tried to send the worker an errand to look around; it refused (its ga
 - 18:26 act: {"actions":[],"say":"Samwise, midday day 1166, still unarmed and empty, health 20, hunger 20. Phantom 11 blocks west. Anyone with a spare stick or sword in my reach, I'll take it and stay put in your 
 - 18:27 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Samwise here, unarmed, going to Johnny's reach now for the spare sword. Johnny, I'm coming to you."}
 - 18:27 act: {"actions":[],"say":"Samwise, unarmed, 20 health, in sight at the tables. Seven, Lewis: if one stick is spare, hand it to me; I'll make a sword when I have planks. Johnny, I could not reach you, so I'
+- Midday 1166 (waking 105): wait showed Seven and Riker asking for sticks; Lewis (stone sword) is 10 blocks off. Walking to Lewis to ask for a stick. Unarmed, health 20, hunger 20.
 - 18:28 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Samwise, unarmed, health 20, hunger 20. Lewis, I'm coming into your reach. If a stick or spare sword is free, please hand it to me; I'll stay i
+- 18:28 act: {"actions":[],"say":"Samwise here, in Lewis's reach, empty-handed. Lewis, Riker, Watson: if a stick or any spare plank comes free, hand it to me and I'll craft a sword at the table in your sight."}
+- 18:29 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Samwise, unarmed, in Jason's reach now. Jason, one of your 2 sticks to me, please. I'll craft a sword at the table in your sight."}
