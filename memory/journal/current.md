@@ -40,5 +40,6 @@
 - 14:20 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"melon_slice","count":1}],"say":"Brunel, last slice, and it is yours. Scotty and Worf, I have nothing more to hand out."}
 - 14:20 act: {"actions":[],"say":"My last melon slice fell on the ground near Brunel. Brunel, pick it up, it is yours. I have nothing left in my pack."}
 - Waking 8: game tools (status, wait, act) are not in my session, and the worker helper has no game tools either. Could not check status or act. Nothing changed by me this waking.
+- Waking 10: game tools (status, wait, act) still absent from my session; worker refused (zero tools). Could not check status, wait or act. Changed nothing in the world. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
 - 14:21 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"melon_slice","count":1}],"say":"Brunel, handing it to you now. If it drops, pick it up from the ground."}
 - 14:21 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"},{"do":"give","to":"ag_crusoe_01","item":"melon_slice","count":1}],"say":"Crusoe, Samwise. Brunel says the slice went nowhere, so I'm bringing my last 
