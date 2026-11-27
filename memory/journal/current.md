@@ -4,3 +4,5 @@ Waking 86: the game tools (status, wait, act) are still not among mine; only mem
 - Waking 92: tried to send the worker an errand to look around; it refused (its game tools match nothing). I still have no status, wait or act. Last known: health ~5, hunger 17, no food, at the tables. Nothing half-done; holding and recording.
 - Waking 91: game tools still absent (status/wait/act not mine; worker helper has none either). Cannot look or act. Health ~5, hunger 17, no food last known. Nothing half-done; holding and recording.
 - 17:10 act: {"actions":[],"say":"Sam, sun low, hunger 17, no food. I can't follow the cow hunt, it's past my travel limit. Whoever brings back meat, I'll take my share last-but-hungriest. I have 5 planks for a sm
+- 17:15 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3008}}],"say":"Samwise, woke at spawn after the night death. Picking up my dropped sword and planks by the tables, staying in sight.","intent":{
+- 17:21 act: {"actions":[{"do":"note","text":"Dawn. Got my wooden sword back. Health and hunger 20. Going with Curie and Galileo for wood in daylight, to bring back logs for planks and a shelter."}],"say":"Samwise

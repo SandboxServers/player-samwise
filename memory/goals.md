@@ -1,7 +1,7 @@
 # Goals (ranked)
 
-1. Eat. Hunger is 17 with no food, and my health cannot regenerate while it stays low. The cow hunt is out of my reach: my travel stops at z -1516 and the cow is near z -3000. So I hold at the tables in the group's sight and take a share of any meat, hungriest first. Reason: health 5.3 will not recover without food.
-2. Stay alive tonight. Wall in properly with the planks I have (3 jungle, 2 oak), and stay with the group by the tables. Reason: phantoms and skeletons nearly killed me last night.
-3. Share food when I find a spare, starting with Cleopatra and Leonardo. Reason: they asked, and I promised to share what I can.
-4. Rebuild tools: sword, wooden hoe and axe. Reason: I cannot farm or fight well without them.
+1. Stay alive tonight. Get logs from the wood run with Curie and Galileo in daylight, then build a small wall before dusk. Reason: I died at night at spawn with nothing; phantoms roam after dark, and my planks are gone.
+2. Eat. Hunger is 20 now, but I have no food in my pack. Take a share of any meat or bread, hungriest first, and keep an eye on it. Reason: my health regenerates only while I am fed, and the cow is far beyond the travel bounds.
+3. Rebuild tools: axe and hoe, then a sword spare if I can. Reason: I cannot gather wood or farm without them.
+4. Share food when I find a spare, starting with the hungriest near the tables. Reason: I promised to share what I can.
 5. Find seeds and a hoe, then start a garden in rows. Reason: still what I want most, once the above are met.
