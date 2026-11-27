@@ -34,3 +34,4 @@ Waking 81: recall("summary") header only. Skill play loaded. status/wait/act sti
 - 17:01 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}],"say":"Sam here, morning, health 5, hunger 17, no food. I'm walling in with my jungle planks. Crusoe, Leonardo: I have no food to spare,
 - 17:01 act: {"actions":[],"say":"Sam here, morning, health 5, hunger 17. Chapman, I'll come with you for the cow in daylight, in sight, with my sword."}
 Waking 83: recall("summary") header only. status and wait (mcp__geldar__status, mcp__geldar__wait) are not among my tools; act and the worker are absent too. Nothing half-done, not in danger as far as I know. Holding still and recording it. Last known: morning, health 5, hunger 17, no food, sword, 3 jungle planks and 2 oak.
+Waking 84: recall("summary") header only. Still no status/wait/act among my tools; no game tools. Nothing half-done. Holding still and recording it.
