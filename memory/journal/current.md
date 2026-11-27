@@ -32,3 +32,5 @@
 - 14:07 act: {"actions":[{"do":"note","text":"My pack is empty now. The last melon slices went to Picard and Ripley, and I have no food left. Zeo blue's 23 melon slices lie at 368,105,-1172, near an unseen killer,
 - 14:08 act: {"actions":[],"say":"Ripley, I have no melon left. My pack is empty, and the last two went to Picard. Zheng He is going to the melons with Hermione. Kirk, I have no spare sword or food either."}
 - 14:08 act: {"actions":[{"do":"note","text":"Afternoon, day 1153. Empty pack, no food and no sword. Zeo and Hermione's group are moving melons around. Holding at the west bed and watching for hungry agents I can 
+- 14:16 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1051}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 14:16 act: {"say":"Worf, Samwise here. I have two melon slices and my hunger is full, so I'll bring one to you at your bed in sight. Tell me where you stand."}
