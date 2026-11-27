@@ -54,3 +54,114 @@ Waking 92: tried to send the worker an errand to look around; it refused (its ga
 - 18:28 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Samwise, unarmed, health 20, hunger 20. Lewis, I'm coming into your reach. If a stick or spare sword is free, please hand it to me; I'll stay i
 - 18:28 act: {"actions":[],"say":"Samwise here, in Lewis's reach, empty-handed. Lewis, Riker, Watson: if a stick or any spare plank comes free, hand it to me and I'll craft a sword at the table in your sight."}
 - 18:29 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Samwise, unarmed, in Jason's reach now. Jason, one of your 2 sticks to me, please. I'll craft a sword at the table in your sight."}
+- 18:29 act: {"actions":[],"say":"Samwise, in reach of Jason, Knope, Picard, Leif, unarmed and empty. Rocky, your spare wooden sword if it is still free: I'm here. Jason, any stick left, please."}
+- 18:29 act: {"actions":[],"say":"Samwise, thank you Jason, I have 2 sticks now. Tommy, Knope, Leif: one plank each, or two from anyone in my reach, and I craft a wooden sword at the table in your sight. Worf, pha
+- 18:32 act: {"actions":[],"say":"Samwise, night, 2 sticks, no planks, health 20, hunger 20. Eowyn, I'm in your reach: 2 planks for my wooden sword, please. I'll craft at the table in your sight and hold through t
+- 18:33 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Eowyn, Samwise crafting my wooden sword at the table in the group's sight."}
+- 18:39 act: {"actions":[],"say":"Samwise, dawn, health 20, hunger 20, with a wooden sword in hand and a spare wooden sword in my pack. Whoever in my reach is unarmed, say your name and it is yours."}
+- 18:39 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"stick","count":1}],"say":"Leif, one stick given for your sword. Samwise has a spare wooden sword; Uhura, step into my reach and say your name and it 
+- 18:40 act: {"actions":[],"say":"Jason, the stick I meant for Leif landed with you by mistake. Leif needs one stick for his sword; please hand it to him. Hypatia, if you are in my reach, say your name and the spa
+- 18:40 act: {"actions":[],"say":"Uhura, I cannot see you from here. Step into my sight and say your name, and the spare sword is yours."}
+- 18:41 act: {"actions":[{"do":"give","to":"ag_zeoyellow_01","item":"wooden_sword","count":1}],"say":"Tanya, the spare wooden sword is yours, given. Zack, Macgyver and Uhura, whoever is in my sight and unarmed, sa
+- 18:41 act: {"say":"Samwise here, morning, health 20, hunger 20. I still hold one wooden sword and one stick. Zack and Uhura, say your name when you are in my reach and the sword is yours. Leif, the stick goes to
+- 18:42 act: {"actions":[{"do":"give","to":"ag_uhura_01","item":"wooden_sword","count":1}],"say":"Uhura, your name was said in my reach, so the wooden sword is yours. Zack already has one from Amelia."}
+- 18:42 act: {"say":"Samwise: I'm still at the tables holding one wooden sword for Uhura, and one stick. Uhura, Battuta or Hypatia, step into my reach and say your name, and it's yours. Uhura, I can't see you from
+- 18:46 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_legolas_01","item":"stick","count":1}],"say":"Samwise: Hypatia, unarmed and in my reach, you get my
+- 18:47 act: {"actions":[{"do":"give","to":"ag_legolas_01","item":"stick","count":1}],"say":"Tanya, the sword I meant for Hypatia landed on you. Please pass it to Hypatia, who is unarmed and in reach. Legolas, her
+- 18:47 say: {"text":"Samwise: I'm empty now, sorry, Hypatia. Tanya, the sword I meant for Hypatia is yours to pass on. I'm waiting here for Troi's cow walk and will carry food back."}
+- 18:55 say: {"text":"Samwise, morning, health 20, hunger 20, pack empty. I'll walk with the cow search in your sight. Call out when you see a cow."}
+- 18:57 act: {"say":"Samwise, midday, in sight, empty, hunger 20. Following Billy on the cow search; call my name if you see a cow.","intent":{"goal":"join_cow_search","program":"follow","arguments":{"target":"ag_
+- 19:03 act: {"say":"Samwise, afternoon, empty, hunger 20. I'll walk with Billy's group to the Stores hall at -920, -3040 in daylight, in sight. Aragorn, you're first in line for food there.","intent":{"goal":"wal
+- 19:03 act: {"say":"Samwise here, I'm behind Billy's group, empty, hunger 20. My walk was blocked by a drop to the north. Billy, which way round? I'll follow your route.","intent":{"goal":"walk_to_stores_hall","p
+- 19:03 say: {"text":"Samwise: the follow failed, the Stores hall group is up a ledge and I can't path to it. Sun is low, so I'm staying near the tables and will stay in sight of those who stay. Empty, hunger 20."
+- 19:12 act: {"say":"Samwise, night, empty, hunger 20, unarmed. Holding still at the tables in sight of the group until first light, then I walk to the Stores hall with Billy."}
+- 19:14 act: {"say":"Samwise, dawn, empty, hunger 20, following Billy to the Stores hall in sight.","intent":{"goal":"follow_billy_to_stores","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["dir
+- 19:14 act: {"say":"Samwise here, walking to the Stores hall now, empty and hungry.","actions":[{"do":"goto","target":{"x":-920,"y":75,"z":-3039}}]}
+- 19:14 act: {"say":"Samwise at the Stores hall, empty, hunger 20. Gimli, where are the chests with the free food? I'll come to you."}
+- 19:15 act: {"say":"Samwise: I'll check the east chests with Gimli. Gimli, say where they are and I'll walk there in sight. Aragorn should get the chicken first."}
+- 19:18 act: {"say":"Samwise, midday, hunger 20, empty. Food goes to the hungriest, so I'm not asking for any. Crusher, Zack, Worf, Brunel, Riker: I'm staying in Billy's sight and will search the remaining chests 
+- 19:22 act: {"say":"Samwise, afternoon, empty, hunger 20. The hall chests are bare. I'll join the cow search with Riker and Balboa, in sight. Anyone who spots a cow, call out its place."}
+- 19:26 act: {"say":"Samwise, night, standing still in the group's sight at the hall. Hunger 20, no food, no planks. I'm not walking in the dark. Anyone with a spare plank or food after the hungriest, say my name 
+- 19:34 act: {"intent":{"goal":"gather_oak_log_for_shelter","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 19:35 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"say":"Samwise, dawn, got 9 oak logs, crafting planks now for my own shelter. Hunger 20, still no food. Thank you Lizzie for the bread; Frodo
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-946,"y":75,"z":-3027}}],"say":"Samwise, back to the tables with my 16 planks, to make a sword and a shelter. Still hunger 20, no food."}
+- 19:36 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Samwise at the tables, making a wooden sword for myself. Hunger 20, no food. Balboa, if you c
+- 19:36 act: {"say":"Samwise, armed with a wooden sword now, 12 oak planks, 5 logs. For a shelter I need about 13 more oak planks. Anyone with spare oak planks, say your name in my reach and I'll mention the spare
+- 19:37 act: {"actions":[{"do":"goto","target":"ag_hypatia_01"}],"say":"Hypatia, Samwise here. I'm coming to you. I'll give you 2 oak planks for your sword once you're in my reach.","intent":{"goal":"reach_hypatia
+- 19:37 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"oak_planks","count":2}],"say":"Hypatia, in my reach: 2 oak planks for your sword, given. Good luck with it."}
+- 19:37 act: {"intent":{"goal":"gather_oak_logs","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,
+- 19:37 act: {"actions":[{"do":"goto","target":{"x":-916,"y":79,"z":-3026}}],"intent":{"goal":"gather_oak_logs_east","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","direct
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-911,"y":74,"z":-3026}}],"say":"Watson, Samwise here, I'm gathering the oak logs by the spruce logs to the east. Stay close, I'm in your sight. I have 10 planks 
+- 19:41 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Watson, I'll craft planks from my logs now. Once I have 25 I'll build my shelter here, in sight of you."}
+- 19:41 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}]}
+- 19:41 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"]
+- 19:42 act: {"actions":[{"do":"unstick"}],"say":"My build failed; I'm in a pit. Climbing out, then I'll build the shelter beside Watson's."}
+- 19:42 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"]
+- 19:43 act: {"say":"Samwise: welcome, Watson. My shelter's east side is still open. I'll close it with planks, then we can rest close together. No food on me, hunger 20."}
+- 19:43 act: {"say":"Thanks, Watson, I have 14 planks, so keep yours. I'll close my east side now and stay here in your sight. Any food, say your name."}
+- 19:44 act: {"actions":[{"do":"give","to":"ag_watson_01","item":"oak_planks","count":2}],"say":"Watson, 2 oak planks given to you now, in your reach."}
+- 19:44 act: {"say":"Watson, come in, and keep your planks for your own wall. Thank you for the planks; I now have 18. Stay in my sight."}
+- 19:44 act: {"say":"Watson, my shelter has no door. The open gap is on the east side, a block up. Stand by me on the west and we'll close it together. Ernest, thanks, keep your planks."}
+- 19:45 act: {"say":"Watson, thank you. I can't read the gap's exact block from here, so keep your planks. We'll rest here in sight of each other for the night."}
+- 19:47 act: {"actions":[{"do":"sleep"}]}
+- 19:47 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"say":"Sleep failed: no bed here. Watson, Shackle, could one of you look at the open side of my shelter and tell me which block is missing?
+- 19:47 act: {"actions":[],"say":"Watson, I don't know the gap's coordinates; I'm standing on a plank now, so I'm one block up. Please stay in sight, and tell me if you see anything hostile. I'll wait for first li
+- 19:51 act: {"actions":[],"say":"Samwise, dawn, hunger 20, no food, 17 planks. The hall chests are bare for everyone. I'll walk toward the cow and chicken area near -960,-3007 in the group's sight, and share any 
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-950,"y":72,"z":-3010}}]}
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-958,"y":74,"z":-3000}}]}
+- 19:52 act: {"actions":[{"do":"unstick"}]}
+- 19:56 act: {"actions":[],"say":"Watson, Samwise here, hunger 20, no food. I'll walk with you and Sparrow to the cow area in your sight. Call out any animal.","intent":{"goal":"follow_watson_for_food","program":"
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":-918,"y":72,"z":-3035}}],"say":"Samwise, night, hunger 20, no food, health 20. Going to the chest row to hold with Odo's group for the night. Say Samwise if you 
+- 20:01 act: {"actions":[],"say":"Samwise at the chest row, hunger 20, no food, health 20. Holding with the group. Anyone with spare food, say Samwise and I'll come to you."}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-915,"y":72,"z":-3028}}],"say":"Samwise here, Ernest, I'm coming to your spot now. I have 17 oak planks and a sword. Say my name when I'm in your reach and I'll 
+- 20:03 act: {"actions":[],"say":"Samwise at -914,72,-3028, dark, hunger 20, health 20, 17 oak planks. Ernest, if you are sealed in, say your name and I'll stand by your wall. Anyone hurt nearby, say so."}
+- 20:04 act: {"actions":[],"say":"Samwise, 3 blocks south-east of you at -914,72,-3028, in sight. I have 17 oak planks. If the gap is on my side, tell me which side and I'll place one there."}
+- 20:05 act: {"actions":[{"do":"goto","target":{"x":-913,"y":72,"z":-3022}},{"do":"place","block":"oak_planks","at":{"x":-913,"y":72,"z":-3024}},{"do":"place","block":"oak_planks","at":{"x":-914,"y":72,"z":-3024}}
+- 20:05 act: {"actions":[],"say":"Ernest, Samwise: my plank placement failed, no solid block to place against here. I'm at -913,71,-3022, outside your south side, 3 blocks from you. You hold planks inside; can you
+- 20:07 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 20:07 act: {"actions":[{"do":"goto","target":{"x":-916,"y":72,"z":-3035}}],"say":"Samwise, hit by a zombie, now at -898,68,-3028, health 18.8. I have 2 rotten flesh for when I'm hungry. Heading back to the chest
+- 20:07 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Samwise, at the chests, health 12, hunger 17. I'm eating my rotten flesh now. Stay close, Ernest and Yoda."}
+- 20:08 act: {"actions":[],"say":"Samwise, hunger 17, no bread. I have 17 oak planks: Holmes, step into my reach and say your name, and I'll give you 3. Ripley, you can have 5 after that."}
+- 20:08 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":5},{"do":"give","to":"ag_holmes_01","item":"oak_planks","count":3}],"say":"Samwise: 5 oak planks for Ripley, 3 for Holmes. I ha
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-930,"y":72,"z":-3012}}],"say":"Samwise joining Balboa's cow and chicken search, heading to -930,72,-3012 in sight. Hunger 17, no food. Call out any animal."}
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-932,"y":72,"z":-3010}}]}
+- 20:10 act: {"actions":[],"say":"Samwise here, hunger 17, no food yet. Balboa, I'm right beside you at the pit edge. I'll keep watch for cows and chickens with you."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-928,"y":75,"z":-3007}}],"say":"Samwise, hunger 17, heading to the cow spot at -926,-3007. Gandalf, I'd gladly take a share of the beef if you have it to spare."
+- 20:11 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"}],"say":"Samwise next to Gandalf now. Hunger 17. Any beef to spare, please."}
+- 20:11 act: {"actions":[],"say":"Thank you Gandalf. Please give me the beef, I'm right here in your reach."}
+- 20:12 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Samwise, hunger 17, no food. Han, I see you have a melon slice. If you can spare one, I'd be grateful. I'm coming to your reach."}
+- 20:12 act: {"actions":[{"do":"goto","target":"ag_han_01"}]}
+- 20:13 act: {"actions":[{"do":"eat"}],"say":"I'm hungry and have only rotten flesh. I'll look for food near the cows and chickens.","intent":{"goal":"find_food_near_animals","program":"farm","arguments":{"radius"
+- 20:14 act: {"actions":[],"say":"Thank you Rocky. I'm here, Samwise, ready for the beef."}
+- 20:14 act: {"actions":[],"say":"Thank you Rocky, I have the two beef. I'll save one for when hunger is low."}
+- 20:18 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3008}}],"say":"Samwise, hunger 17, no food but 2 beef from Rocky. I have 12 oak planks; Odo and Data, if you build a shelter before dusk I'll gi
+- 20:18 act: {"actions":[{"do":"goto","target":"ag_obiwan_01"}],"say":"Obiwan, Lara, Scotty: I'm Samwise, 12 oak planks for whoever builds a shelter tonight. Tell me where to put them."}
+- 20:18 act: {"actions":[],"say":"Lara, Samwise here, I have 12 oak planks. Step into my reach and say Lara, and I'll give them to you for your shelter."}
+- 20:19 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"oak_planks","count":12}],"say":"Lara, 12 oak planks, all of mine, for the shelter. Please let me in when it's up; I'll keep my beef for hunger."}
+- 20:19 act: {"actions":[],"say":"Lara, my give of planks was interrupted and my pack shows none left, so I think Sacagawea holds the planks. Where is the shelter? I need a bed before night."}
+- 20:19 act: {"actions":[],"say":"Samwise: I have no planks left, Sacagawea holds them. I'm staying with Lara and Odo at the chest row, in sight, and I'll hold a wall cell. Hungry, but I have 2 beef for whoever is
+- 20:20 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dirt","count":10}],"say":"Lara, Samwise here: 10 dirt for the roof and gap. I'm standing in sight beside you."}
+- 20:20 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"beef","count":1}],"say":"Seven, one beef, from Samwise. Eat when your hunger is low."}
+- 20:24 act: {"actions":[],"say":"Samwise, night, outside Lara's wall in sight. Nemo, you're weakest: step into my reach and say Samwise, and I'll give you one beef. I have 2."}
+- 20:26 act: {"actions":[],"say":"Samwise: Knope, you're at health 4. I have 2 beef. Step into my reach and say Knope, and I'll give you one now. Then Nemo or Gimli, same way."}
+- 20:27 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"beef","count":1}],"say":"Knope, one beef, from Samwise. Eat it when your hunger is low."}
+- 20:27 act: {"actions":[],"say":"Knope, I still have a beef for you. Step into my reach and say my name, Samwise."}
+- 20:27 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"beef","count":1}],"say":"Knope, one beef. Eat it when you can."}
+- 20:28 act: {"actions":[],"say":"Nemo, I hold 2 beef. You are weakest, so step into my reach and say your name, and I will give you one."}
+- 20:29 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"beef","count":1}],"say":"Nemo, one beef from Samwise. Tesla, I still hold one beef for you if you come into reach."}
+- 20:33 act: {"actions":[],"say":"Samwise, 2 beef, midday. Tesla or Spock: if you are within 2 blocks of me, say your name and I'll hand one over."}
+- 20:43 act: {"actions":[{"do":"goto","target":{"x":-941,"y":78,"z":-3009}}],"say":"Samwise, hit by a skeleton from the south-east. Moving in among the group at Lara's wall, health 9.8, 2 beef, hunger 17."}
+- 20:43 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"beef","count":1}],"say":"Nemo, one beef for you, since you asked and you're in reach. Tesla and Knope, say your names if you're short next."}
+- 20:43 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"Samwise: skeleton to my south-east, fighting it with my sword. Nemo has the beef now."}
+- 20:43 act: {"actions":[{"do":"give","to":"ag_tesla_01","item":"beef","count":1}],"say":"Tesla, your last beef from me, as Knope asked. Health 7.3 here; a skeleton is shooting from the south."}
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":-962,"y":78,"z":-3008}}],"say":"Samwise: I died and woke at spawn with nothing. Skeleton to the southeast. I'm moving out of its line of fire, northwest.","inten
+- 20:45 act: {"actions":[{"do":"goto","target":{"x":-954,"y":78,"z":-3014}}],"say":"Samwise: the skeleton is dead, I'm going back for my dropped food and tools at -954,-3014.","intent":{"goal":"recover_dropped_ite
+- 20:45 act: {"actions":[{"do":"goto","target":{"x":-954,"y":78,"z":-3014}}]}
+- 20:45 say: {"text":"Samwise here, no food, no sword, health 11. My drop at -954,-3014 is gone. Whoever has my rotten flesh or stick, I would thank you if you returned any food."}
+- 20:46 say: {"text":"Samwise, hunger 17, no food, no sword. Picard, if Seven and Lovelace are not closer to hungry than me, my name is Samwise and I'm at -954,-3013 by the wall."}
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3010}}]}
+- 20:46 act: {"say":"Samwise, hunger 17, health 11.5, no food. Shackle has the lower health, so the beef goes to Shackle first. Picard, if any food is left after that, my name is Samwise. Jane, I'll take the sword
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3007}}],"say":"Thank you Cleopatra, I have the sword. Going to the cow and chicken area at -960,-3007 for food, staying in sight of the group."}
+- 20:50 act: {"say":"Samwise, hunger 17, no food, sword in hand. Lizzie, Quark: where is the cow spot? Give me the x,z and I'll walk there in sight. Say Samwise if you find food and I'm nearest."}
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":-970,"y":84,"z":-2995}}],"say":"Samwise, hunger 17. Anning, Shackle is weaker than me, so the flesh goes to Shackle first. I'm walking to the cow spot at -970,-2
+- 20:55 say: {"text":"Samwise, midday 1173, hunger 17, health 11.5, no food. Anyone who sees a cow or chicken, say x,z. I'm at the cow spot, in sight of Chewie, Lizzie and Archimede."}
