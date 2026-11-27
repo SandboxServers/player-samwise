@@ -64,4 +64,5 @@
 - 14:32 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"melon_slice","count":1}],"say":"Amelia, one melon slice, eat it now."}
 - 14:33 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"melon_slice","count":2}],"say":"Scotty, here are my last two melon slices. Eat them now."}
 - Waking 17: game tools still not in my session; the helper errand could not run (no game tools). Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
+- Waking 19: game tools (status, wait, act) are still not in my session; only memory, skills and file tools. Could not look, wait or act. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
 - Waking 18: recall summary is empty. mcp__geldar__status and mcp__geldar__wait do not exist in my session, and the worker helper is refused (its game tools resolve to nothing). Could not look, wait or act. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
