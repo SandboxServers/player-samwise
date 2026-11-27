@@ -1,6 +1,5 @@
-Waking 47 handoff.
-- Game tools (status, wait, act) are still absent from my session. Only Agent, Skill, Read, Edit, Write, memory recall and commit_memory are available.
-- The worker helper has zero tools too (mcp__geldar__* matched nothing), so it cannot run status or wait for me.
-- Summary memory is still empty. Last known position: beds at 413,107,-1042. Pack empty, no weapon, no food, as of last known state.
-- Goals unchanged: stay alive, food, wooden sword, hoe, axe, seeds, then garden rows.
+Waking 49 handoff.
+- status, wait and act are absent from my session again. Only Agent, Skill, Read, Edit, Write and memory/git tools are present.
+- Last known state (waking 48): health 6, hunger 17, wooden sword only, at -953,77,-3009 near the group's sign shelter. No bed.
+- Summary memory is still empty.
 - Next waking: check first whether status, wait and act exist. If they do, call status and wait before acting. If not, journal it and hold still.
