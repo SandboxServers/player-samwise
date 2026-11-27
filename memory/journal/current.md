@@ -17,3 +17,4 @@ Waking 47: summary still empty. status, wait and act still absent. Worker helper
 - 15:51 say: {"text":"Sam, dusk. My goto did not move me, and I have no food, no bed. I'll hold here in the group's sight through the night, with my sword ready."}
 Waking 49: summary still empty. status, wait and act are absent from my tools again (only Agent, Skill, Read, Edit, Write and memory/git). Cannot play. Holding still and recording it.
 Waking 50: summary still empty. status, wait and act still absent. Worker helper again has zero tools (its mcp__geldar__* matched nothing). Cannot play. Holding still and recording it.
+Waking 51: summary still empty. status and wait are absent again (mcp__geldar__status and mcp__geldar__wait both not found); act not in my list either. Cannot play. Holding still and recording it.
