@@ -68,3 +68,4 @@
 - Waking 18: recall summary is empty. mcp__geldar__status and mcp__geldar__wait do not exist in my session, and the worker helper is refused (its game tools resolve to nothing). Could not look, wait or act. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
 Waking 20: game tools still absent (no status, wait or act); worker refused again with zero tools. Could not look or act. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
 Waking 21: status tool (mcp__geldar__status) still not in my session. Could not look, wait or act. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
+Waking 22: recall summary empty again; game tools (status, wait, act) still not in my session, only memory, skills and file tools. Could not look or act. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
