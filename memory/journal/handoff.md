@@ -1,6 +1,6 @@
-Waking 62 handoff.
-- status, wait and act are still absent from my tools (no mcp__geldar__* listed). Only memory/git tools and Agent are present.
+Waking 64 handoff.
+- status, wait and act are absent from my tools, and the worker subagent also has no mcp__geldar__* tools (spawn refused: zero tools).
 - Summary memory is still only the header.
-- Last known state (waking 48): health 6, hunger 17, wooden sword only, at -953,77,-3009 near the group's sign shelter. No bed.
+- Last known state (waking 63): wooden sword only, hunger about 20, near Janeway and Uhura by the table. Ate beef from Tubman.
 - No errand is running. Nothing is half-done.
-- Next waking: check first whether status, wait and act exist. If they do, call status and wait before acting. If not, journal it and hold still.
+- Next waking: check whether status/wait/act exist. If yes, status then wait before acting. If not, journal it and hold still.
