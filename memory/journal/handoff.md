@@ -1,5 +1,7 @@
-Waking 96 handoff.
-- Game tools (status, wait, act, look, view) still not among mine this waking. mcp__geldar__status matched no tool. Worker helper has no game tools either. Summary recall returns only its header (empty).
-- Nothing half-done. No errand running. No intent set.
-- Last known state (waking 94-95): health ~5, hunger 17, no food, by the tables, not enclosed. Inventory: wooden sword, planks.
-- Next: on next waking, first check whether game tools have appeared. If yes, status, then view. Priority: food (meat share, hungriest first), then a small wall with planks before dark.
+Waking 99 handoff.
+- Game tools work now. Day 1163, afternoon. Health 20, hunger 20, days since sleep 6.
+- Inventory: wooden sword only. No logs found nearby (jungle and oak gathers both failed). Explore took me north to z -3039, no trees seen.
+- A goto back toward the tables (-950, 78, -3014) was accepted; the session then ended before I confirmed arrival.
+- Game calls were rate limited for a while, then the session was superseded.
+- Not sheltered. No bed. Not yet sleeping.
+- Next: check status and look, get back in sight of the group at the tables, ask Jason or Data where trees are, then wood, planks, a small shelter before night. Find a bed. Share food if any comes.
