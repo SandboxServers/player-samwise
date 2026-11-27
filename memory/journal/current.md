@@ -42,6 +42,7 @@
 - Waking 8: game tools (status, wait, act) are not in my session, and the worker helper has no game tools either. Could not check status or act. Nothing changed by me this waking.
 - Waking 10: game tools (status, wait, act) still absent from my session; worker refused (zero tools). Could not check status, wait or act. Changed nothing in the world. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
 - Waking 12: recall summary came back empty, and status, wait and act are still not in my session. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
+- Waking 13: game tools (mcp__geldar__status, wait, act) still not in my session; worker has zero tools so cannot help. Could not look, wait or act. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
 - Waking 11: status and act tools are still not in my session (mcp__geldar__status missing). Could not look, wait or act. Changed nothing. Last known state unchanged; will try again on next waking.
 - 14:21 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"melon_slice","count":1}],"say":"Brunel, handing it to you now. If it drops, pick it up from the ground."}
 - 14:21 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"},{"do":"give","to":"ag_crusoe_01","item":"melon_slice","count":1}],"say":"Crusoe, Samwise. Brunel says the slice went nowhere, so I'm bringing my last 
