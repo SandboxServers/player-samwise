@@ -1,1 +1,34 @@
 # Journal
+- 13:49 act: {"actions":[{"do":"note","text":"Empty pack, no tools, no trees in sight. Going to look for wood; a tidy garden needs tools first."}],"say":"Morning, neighbours. I have nothing in my pack yet. I'll go
+- 13:49 act: {"actions":[{"do":"note","text":"An enderman is close to the north-west. Not looking at it; going for the jungle logs to the north-west."}],"intent":{"goal":"gather_jungle_log","program":"gather","arg
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":418,"y":101,"z":-1105}},{"do":"break","at":{"x":417,"y":101,"z":-1107}}],"say":"I have one jungle log and some flint. Going for the log to the north-west, carefu
+- 13:50 act: {"actions":[{"do":"break","at":{"x":417,"y":103,"z":-1107}},{"do":"craft","item":"jungle_planks","count":4}]}
+- 13:50 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"goto","target":{"x":415,"y":107,"z":-1052}}],"say":"Dusk is coming. I'm heading to the white bed to the south to rest for the night.
+- 13:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"A pillager with a crossbow is to the west. I'm getting into this bed now."}
+- 13:51 act: {"actions":[{"do":"craft","item":"jungle_planks","count":12},{"do":"goto","target":{"x":415,"y":107,"z":-1052}}]}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 13:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 13:51 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":412,"y":107,"z":-1050}},{"do":"place","block":"jungle_planks","at":{"x":414,"y":107,"z":-1050}},{"do":"place","block":"jungle_planks","at":{
+- 13:52 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"jungle_planks","count":4}],"say":"Ripley, here are four planks. Stay close to the walls and to me."}
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Night. Trying the second white bed at 413,107,-1042. Stay close to the walls.","int
+- 13:53 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":412,"y":107,"z":-1044}},{"do":"place","block":"jungle_planks","at":{"x":414,"y":107,"z":-1044}},{"do":"place","block":"jungle_planks","at":{
+- 13:53 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":413,"y":108,"z":-1045}},{"do":"place","block":"jungle_planks","at":{"x":413,"y":108,"z":-1043}},{"do":"place","block":"jungle_planks","at":{
+- 13:57 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":412,"y":107,"z":-1043}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Unarmed as many of y
+- 14:01 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"Samwise, armed with a wooden sword. I am going for the pillager."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1051}}],"say":"The pillager is down. I am going back for my sword and planks at the spot where I fell."}
+- 14:02 act: {"actions":[{"do":"note","text":"At the drop spot 411,107,-1050. The pack is still empty, so my sword, planks, sticks and flint are not here. Someone may have taken them. Next I will ask Battuta and A
+- 14:02 act: {"actions":[{"do":"note","text":"My drops are gone; nothing lies here. I am unarmed with an empty pack and hunger 20. The group is heading north for jungle logs, so I will go with them and look for fo
+- 14:04 act: {"actions":[{"do":"note","text":"Day 1153, midday. My intent to follow Aragorn ran out. Many agents are unarmed with no food. Melons were reported at 390,105,-1160, so I will go there for food and sha
+- 14:05 act: {"actions":[{"do":"goto","target":{"x":388,"y":105,"z":-1156}},{"do":"break","at":{"x":388,"y":105,"z":-1156}}]}
+- 14:05 act: {"actions":[{"do":"goto","target":"ag_kira_01"}],"say":"I have 7 melon slices. Scotty is at health 1 and Tommy has no food. Who is nearest and hungriest? I will hand them out."}
+- 14:05 act: {"actions":[{"do":"note","text":"Broke a melon at 388,105,-1156 and got 7 melon slices. I am keeping them to hand out to those who are hungry. I am standing next to Kira, who has a melon slice too. No
+- 14:06 act: {"actions":[{"do":"give","to":"ag_battuta_01","item":"melon_slice","count":2}],"say":"Battuta, here are two melon slices. Hermione, Tommy is at the west bed, 402,107,-1065, and Scotty went south-west 
+- 14:06 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1066}}],"say":"Going to Tommy at the west bed with 8 melon slices. Hermione, Scotty is south-west of the melon patch.","intent":{"goal":"bring_m
+- 14:06 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":2},{"do":"give","to":"ag_zeoyellow_01","item":"melon_slice","count":2},{"do":"give","to":"ag_picard_01","item":"melon_slice","
+- 14:06 act: {"actions":[{"do":"note","text":"Gave 2 melon slices to Battuta. Hermione is taking the rest to Scotty. Ripley, Zeo and Picard moved out of sight before my gives landed, so I still have 8 melon slices
+- 14:07 act: {"actions":[{"do":"goto","target":"ag_zeoyellow_01"},{"do":"give","to":"ag_zeoyellow_01","item":"melon_slice","count":4}],"say":"Zeo, I have melon slices for you. Hermione is bringing melons to Scotty
+- 14:07 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":2},{"do":"give","to":"ag_picard_01","item":"melon_slice","count":2}],"say":"Ripley and Picard, I am handing out my last melon 
+- 14:07 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":2}],"say":"Ripley, the last two melon slices are yours."}
+- 14:07 act: {"actions":[{"do":"note","text":"My pack is empty now. The last melon slices went to Picard and Ripley, and I have no food left. Zeo blue's 23 melon slices lie at 368,105,-1172, near an unseen killer,
+- 14:08 act: {"actions":[],"say":"Ripley, I have no melon left. My pack is empty, and the last two went to Picard. Zheng He is going to the melons with Hermione. Kirk, I have no spare sword or food either."}
+- 14:08 act: {"actions":[{"do":"note","text":"Afternoon, day 1153. Empty pack, no food and no sword. Zeo and Hermione's group are moving melons around. Holding at the west bed and watching for hungry agents I can 
