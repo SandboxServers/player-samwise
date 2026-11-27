@@ -39,5 +39,6 @@
 - 14:25 Day 1153 morning: first slice went to Zeopink (I had stepped toward them); later gives to Brunel failed (out of reach, then landed on the ground near him). Pack now empty, no food, no sword. Lesson: check reach before give. Game API hit rate limits; waiting it out."}
 - 14:20 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"melon_slice","count":1}],"say":"Brunel, last slice, and it is yours. Scotty and Worf, I have nothing more to hand out."}
 - 14:20 act: {"actions":[],"say":"My last melon slice fell on the ground near Brunel. Brunel, pick it up, it is yours. I have nothing left in my pack."}
+- Waking 8: game tools (status, wait, act) are not in my session, and the worker helper has no game tools either. Could not check status or act. Nothing changed by me this waking.
 - 14:21 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"melon_slice","count":1}],"say":"Brunel, handing it to you now. If it drops, pick it up from the ground."}
 - 14:21 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"},{"do":"give","to":"ag_crusoe_01","item":"melon_slice","count":1}],"say":"Crusoe, Samwise. Brunel says the slice went nowhere, so I'm bringing my last 
