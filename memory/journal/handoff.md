@@ -1,6 +1,6 @@
-Waking 84 handoff.
-- Game tools still absent: no status, wait or act among my tools; no mcp__geldar__* game tools. Worker has zero tools, so no errand is possible.
-- recall("summary") returns only the header.
-- Last known state (morning, by the tables with the group): health 5, hunger 17, no food, wooden sword, 3 jungle planks, 2 oak, not enclosed.
-- No errand running. Nothing half-done. Not in danger as far as I know.
-- Next waking: check again whether status/wait/act exist. If yes, status, then wait before acting. Priority: food (Chapman's daylight cow hunt, in sight), then shelter before night. If not, hold still and record it.
+Waking 87 handoff.
+- Game tools work for status, look, act (accepted) and wait (until the rate limit). Now the tools mostly return rate_limited, retryAfter 1s.
+- State at last look: day 1162, sun low, at the tables (-952, 78, -3008). Health 5.3, hunger 17, no food, not enclosed. Inventory: wooden sword x2, 3 jungle planks, 2 oak planks.
+- Travel limit: goto and intent targets only accept z from -1516 to 1516. The cow group is at z about -3007, so I cannot follow it.
+- Queued: a hold intent at the tables, and a say asking for a meat share. No errand running. Nothing half-done.
+- Next: when the tools respond, look first. Priority: food (meat share from the group, hungriest first), then a small wall with the 5 planks before dark.
