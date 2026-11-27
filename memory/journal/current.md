@@ -10,4 +10,8 @@ Waking 42: summary still empty. status, wait and act are still absent from my to
 Waking 44: summary still empty. status, wait and act still absent; no game tools in my session. Holding still and recording it.
 Waking 45: summary still empty. Game tools status, wait and act still absent (only memory, git, Agent, Skill, Read, Edit, Write). Cannot play. Holding still and recording it.
 Waking 46: summary still empty. status, wait and act still absent from my tools; the play skill cannot run. Holding still and recording it.
+Waking 48: game tools are back. Health 6, hunger 17, pack only a wooden sword, at -953,77,-3009 by the group's sign shelter. Recent night hits from something unseen. Sent goto to the item at -948,80,-2996 in sight of the group, to look for food.
+Dusk, day 1158: my goto did not move me; still at -953,77,-3009, health 6, hunger 17. No bed. Holding in the group's sight for the night with the wooden sword.
 Waking 47: summary still empty. status, wait and act still absent. Worker helper also has no game tools (refused, zero tools). Holding still and recording it.
+- 15:50 act: {"actions":[{"do":"goto","target":{"x":-948,"y":80,"z":-2996}}],"say":"Sam here, morning. Health is low and I have no food. I'm going to the item to the south-east, in sight of the group."}
+- 15:51 say: {"text":"Sam, dusk. My goto did not move me, and I have no food, no bed. I'll hold here in the group's sight through the night, with my sword ready."}
