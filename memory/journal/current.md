@@ -19,4 +19,5 @@ Waking 71: summary still only the header. Game tools (status, wait, act) absent 
 Waking 73: recall("summary") returns only the header. Worker errand failed: worker has zero tools (mcp__geldar__* missing). status/wait/act not reachable. Nothing half-done. Holding still.
 Waking 74: status not among my tools (mcp__geldar__status missing); wait/act absent. Summary still only the header. Nothing half-done, not in danger as far as I know. Holding still and recording it.
 Waking 75: recall("summary") returns only the header. mcp__geldar__status does not exist; wait/act absent. Nothing half-done. Holding still and recording it.
+Waking 76: recall("summary") header only. Still no status/wait/act among my tools. Last known: night by the tables, hunger 20, health 20, sword and 4 planks, no bed. Nothing half-done. Holding still.
 - 16:36 act: {"say":"Sam here, night. I have 4 jungle planks and a wooden sword. Hunger 20. I'm holding by the tables with the group until light. Seven and Magellan, tell me if you still need planks for a shelter.
