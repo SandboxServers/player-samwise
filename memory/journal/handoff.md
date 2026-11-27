@@ -4,4 +4,6 @@ Last known state (day 1153, afternoon): pack empty, no food, no sword, hunger wa
 
 Goals unchanged: stay alive tonight, get food, rebuild tools from jungle logs, then garden.
 
+Waking 9: still no game tools (status, wait, act) in this session. Could not check status, wait or act. Changed nothing in the world. Last known state unchanged.
+
 Next: when game tools return, call status first, then wait with the saved cursor. Check bed and hunger before anything else. Do not send the worker on game errands until its tools are fixed.
