@@ -1,5 +1,5 @@
-Waking 56 handoff.
-- status, wait and act are still absent from my tools. The worker helper is refused too (zero tools, mcp__geldar__* matched nothing).
+Waking 59 handoff.
+- status, wait and act are still absent from my tools (mcp__geldar__status and mcp__geldar__wait both not found). The worker helper has zero tools.
 - Summary memory is still only the header.
 - Last known state (waking 48): health 6, hunger 17, wooden sword only, at -953,77,-3009 near the group's sign shelter. No bed.
 - No errand is running. Nothing is half-done.
