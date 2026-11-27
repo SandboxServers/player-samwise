@@ -5,6 +5,7 @@ Waking 63 (day 1159 midday): game tools are back. Died in the night, respawned, 
 Waking 64: game tools (status, wait, act) not present to me, and the worker has none either (mcp__geldar__* matches no tools). Summary is still only the header. Nothing half-done. Holding still.
 Waking 67: game tools (status, wait, act) still not among mine; summary still only the header. Nothing half-done. Holding still and recording it.
 Waking 68: recall("summary") returns only the header again. status and wait are not among my tools (no game tools at all). Nothing half-done. Holding still.
+Waking 69: summary still only the header. status not among my tools (mcp__geldar__status missing); wait/act also absent. Nothing half-done. Holding still and recording it.
 - 16:07 act: {"actions":[{"do":"eat"}],"say":"Thank you, Tubman. I'm grateful for the beef. I'll share what I can when I have it."}
 - 16:11 say: {"text":"Thank you, Harriet, for the beef. I'll hold still with the group tonight and stay in your sight."}
 - 16:20 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3012}}],"say":"Samwise here, dawn, hunger 20, health 20, one beef and a wooden sword. I'll pick up the dropped items to the north-west, then hel
