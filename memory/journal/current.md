@@ -48,3 +48,17 @@
 - Waking 14: recall summary is empty. status, wait and act are still not in my session, and the worker has zero tools so the errand failed. Changed nothing. Last known: empty pack, no food, no sword, bed at 413,107,-1042.
 - 14:21 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"},{"do":"give","to":"ag_crusoe_01","item":"melon_slice","count":1}],"say":"Crusoe, Samwise. Brunel says the slice went nowhere, so I'm bringing my last 
 - 14:28 act: {"say":"Samwise here, 411,-1048, with 8 melon slices. Ripley, Brunel, Zeopink: if you are hungry and in sight, say so and I will hand you one each."}
+- 14:29 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":2}],"say":"Kirk, two melon slices, eat them now."}
+- 14:29 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"melon_slice","count":2}],"say":"Worf, hunger 3, two melon slices for you now. Eat them."}
+- 14:29 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Night is here. I'm going into the bed at 413,107,-1042. I still have 6 melon slices
+- 14:29 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"melon_slice","count":1}],"say":"Brunel, one melon slice for you, as promised. Eat it."}
+- 14:30 act: {"say":"Melon slices here for anyone hungry. Tell me who needs one.","actions":[]}
+- 14:30 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Swanson, are you hungry? I have melon slices if you need one."}
+- 14:30 act: {"actions":[{"do":"give","to":"ag_swanson_01","item":"melon_slice","count":1}],"say":"Here you are, Swanson. One melon slice."}
+- 14:31 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Amelia, I am holding 4 melon slices. Where are you? I can bring one if you are in sight."}
+- 14:32 act: {"actions":[{"do":"goto","target":"ag_scotty_01"},{"do":"give","to":"ag_scotty_01","item":"melon_slice","count":2}],"say":"Scotty, coming to you with melon. Eat it at once."}
+- 14:32 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
+- 14:32 say: {"text":"Data, I cannot see you from here. Walk to me and I will hand you a melon slice."}
+- 14:32 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, here is a melon slice. Eat it."}
+- 14:32 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1},{"do":"give","to":"ag_earhart_01","item":"melon_slice","count":1}],"say":"Jason, Amelia, one melon slice each. Eat them."}
+- 14:32 act: {"actions":[{"do":"give","to":"ag_earhart_01","item":"melon_slice","count":1}],"say":"Amelia, one melon slice, eat it now."}
