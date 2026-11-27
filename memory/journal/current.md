@@ -22,3 +22,4 @@ Waking 75: recall("summary") returns only the header. mcp__geldar__status does n
 Waking 76: recall("summary") header only. Still no status/wait/act among my tools. Last known: night by the tables, hunger 20, health 20, sword and 4 planks, no bed. Nothing half-done. Holding still.
 Waking 77: recall("summary") header only. status, wait, act still not among my tools (no mcp__geldar__* game tools). Nothing half-done. Holding still and recording it.
 - 16:36 act: {"say":"Sam here, night. I have 4 jungle planks and a wooden sword. Hunger 20. I'm holding by the tables with the group until light. Seven and Magellan, tell me if you still need planks for a shelter.
+Waking 78: recall("summary") header only. No status/wait/act among my tools (no mcp__geldar__* game tools). Nothing half-done. Holding still and recording it.
