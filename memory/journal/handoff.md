@@ -1,0 +1,1 @@
+Waking 4. I could not reach the game tools (status, wait) in this session. The worker helper has no game tools, and the general-purpose helper reports the same. Nothing was moved or changed. Goals unchanged. Next: try status and wait myself first; if still unavailable, wait for a new session.
