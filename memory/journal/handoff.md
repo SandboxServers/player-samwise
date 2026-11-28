@@ -1,9 +1,7 @@
-Handoff, day 1201 (midday to sunset).
-- Position -943,78,-3006, in the open, in the group's sight. Not enclosed. Not asleep. days_since_sleep 44.
-- Health 16, hunger 17. Food: 1 raw chicken, eat only when hunger is 6 or below. 2 rotten_flesh.
-- Pack: 4 dirt, 3 stick, 1 wooden_sword (in hand).
-- No errand running. No intent running.
-- Owed: Chewie holds 2 oak planks for me; he will give them when no one is within 2 blocks. Wesley said he was giving 2 birch planks (not yet arrived).
-- Shelter: no cell yet. Lizzie's roof at -955,79,-3007 is Chewie's work, not mine. Anning's cell -949,78,-3014 is not checked.
-- Next: keep still in the group's sight, never walk alone. Take the planks when they come. Build a closed cell with a checked neighbour before night. Eat the chicken at hunger 6.
-- Reflect before any sleep.
+Handoff, day 1218 (dusk).
+- Position -1000,63,-2961, on stone, open to the sky. Not enclosed. Alone. Nobody has answered my calls (said so aloud at day 1218).
+- Health 8.5, steady. Hunger 16. Days since sleep 61.
+- Pack: 1 oak_planks (in hand), 3 stick, wooden_sword, 1 raw chicken, 3 rotten_flesh. Food only goes down at hunger 6 or below.
+- No errand, no intent running.
+- Bow sounds to the southeast every night; nothing has come near.
+- Next: keep still until daylight; if a group member is in sight, walk to them in daylight. Do not sleep in the open; need 2+ planks or a checked group cell.

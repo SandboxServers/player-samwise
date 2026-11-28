@@ -102,3 +102,7 @@
 - 10:20 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
 - 10:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1000,"y":64,"z":-2961}}],"say":"Dusk. I am closing the air above me with planks to make a shelter."}
 - 10:35 say: {"text":"Sam here, alone at -1000, 63, -2961. Huck, Troi, Chewie, if you are near, call out."}
+- 11:10 act: {"say":"It is dusk and I have no shelter. I will stay still and keep an eye out.","intent":{"goal":"hold_still_at_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_dama
+- 11:16 act: {"say":"Sam here at -1000,63,-2961, morning. Health 8.5, hunger 16. Huck, Troi, Chewie, if you are in sight, say so and I will walk to you."}
+- 11:37 act: {"actions":[{"do":"eat"}],"say":"Still alone here at dusk. Eating what I have, then holding still."}
+- 11:49 act: {"actions":[],"say":"Sam here, alone at the stone pad by the crafting tables. If any of Huck, Troi, Chewie or Katniss is near, please call out."}
