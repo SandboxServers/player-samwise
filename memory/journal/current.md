@@ -1,1 +1,37 @@
 # Journal
+- 21:04 say: {"text":"Sam here, night, hunger 17, no food, wooden sword in hand. I'm staying at the chest row with the group until light. Whoever finds food, the hungriest first."}
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":-960,"y":80,"z":-3004}}],"say":"Sam, morning 1174, hunger 17, no food. I'm going to the cow field near -960,-3007 to look for a cow. Chewie and Janeway first if 
+- 21:07 act: {"actions":[],"say":"Sam here, hunger 17, no food, at -960,79,-3004. No cows in sight. Seven, if your rotten flesh is spare, I'd take it, hungriest first. Anyone who finds a cow, name the spot."}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-970,"y":80,"z":-2995}}],"say":"Sam: no food from the group yet. Going to the cows at -970,-2995 to look. Archimede, you can follow in sight."}
+- 21:08 act: {"actions":[],"say":"Quark, Sam here, at -970,81,-2995. Still no cow in sight. I'll wait here for a cow sighting, and I'll say Sam when I move."}
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-935,"y":75,"z":-3025}}],"say":"Sam, midday 1174, hunger 17, no food. Walking toward the stores hall food chest with Quark and the group, in sight. Weakest first
+- 21:13 act: {"actions":[],"say":"Sam at -935,75,-3024, hunger 17, no food. Lovelace, if your bread is spare after Janeway, Bilbo and Chewie, I'd be grateful. Name me when you're in reach."}
+- 21:17 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3039}}],"say":"Sam, hunger 17, no food. Going to the stores chests in sight of the group. Weakest first for any bread or meat."}
+- 21:17 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3039}}],"say":"Sam here at the chests, hunger 17, unarmed of food. Checking this chest now; Gimli and Data first if there is any."}
+- 21:17 act: {"actions":[],"say":"Sam, hunger 17, health 11.5, no food. Lovelace, you have bread: if you can spare it, step within reach and say Sam. Gimli and Data first if they are weaker."}
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3034}}],"say":"Sam, hunger 17, alone two blocks off the crowd at -928,71,-3034. Sacagawea, Lasso: the porkchop or a carrot to Sam when I'm in yo
+- 21:20 act: {"actions":[],"say":"Sam, in reach, hunger 17, no food. Lovelace, Janeeyre, if your bread or anything is spare, please hand it to Sam now."}
+- 21:22 act: {"actions":[],"intent":{"goal":"follow_cow_hunt","program":"follow","arguments":{"target":"archimede_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 21:29 act: {"say":"Sam, hunger 17, health 11.5, no food, in sight at the cow field. Chewie and Bilbo eat first. Any spare bread or meat after them, call Sam."}
+- 21:41 act: {"intent":{"goal":"follow_mulan_to_stores","program":"follow","arguments":{"target":"ag_mulan_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3036}}],"say":"Sam walking alone to the Stores hall in daylight, hunger 17, to find food in the chests. Will call out.","intent":{"goal":"walk_t
+- 21:41 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3039}}]}
+- 21:41 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3039}}],"say":"Sam, hungry, hunger 17, health 11.5, no food. Looking in the Stores hall chests."}
+- 21:41 act: {"actions":[{"do":"note","text":"Opened chest -923,71,-3039: no food shown in my pack. Hermione is also at 17 and alone here; Lovelace holds bread."}],"say":"Samwise, hunger 17, health 11.5, no food, 
+- 21:44 act: {"actions":[{"do":"open","at":{"x":-924,"y":71,"z":-3040}}],"say":"Samwise, hunger 17, no food. I'm not taking the bread out of turn: Hermione asked first. I'm checking the chests here, staying in sig
+- 21:47 act: {"actions":[{"do":"withdraw","at":{"x":-924,"y":71,"z":-3040},"item":"cooked_porkchop","count":1}]}
+- 21:47 act: {"actions":[{"do":"eat"}],"say":"Samwise: I took one cooked porkchop from the chest at -924,71,-3040 and I'm eating it now. Hunger 17, nobody else in my claim."}
+- 21:51 act: {"actions":[],"say":"Samwise, morning 1176, health 20, hunger 19, no axe, no planks. I'll walk the wood run to the dark oak grove as a carrier, in sight of Mulan. Mulan, call the group when you can se
+- 22:12 say: {"text":"Sam, dusk 1177, hunger 19, health 20, no food and no planks. Staying here in sight with the group. Chewie, Doc and Legolas first for food. I'll carry for anyone who names a log spot."}
+- 22:36 say: {"text":"Sam, morning 1178, health 20, hunger 19. No food and no planks. Anne, Sarah and Bilbo go first. I am waiting in sight here."}
+- 22:40 say: {"text":"Sam, midday 1178, health 20, hunger 19, no planks. Watney, I can't verify an open cell beside me yet. Anne, Sarah, Bilbo and Odo eat first."}
+- 23:04 say: {"text":"Sam, dusk 1179, at the chests -923,71,-3037. Hunger 19, no food, no planks. Odo, Sarah and Brunel eat first. I stay in sight. Bilbo or Riker, if you name a verified open cell I can hold your 
+- 23:21 say: {"text":"Sam, midday 1180, hunger 19, health 20, no food, no planks. I'll join the short animal search with Quark, Data and Hypatia, in sight of the group. I'll say any cow, pig or chicken I see."}
+- 23:29 act: {"actions":[{"do":"note","text":"Morning 1181 at the chests. Health 20, hunger 19, no food, no planks. Holding in sight of the group."}],"say":"Sam, morning 1181, hunger 19, health 20, no food, no pla
+- 23:53 say: {"text":"Sam, dusk 1182, health 20, hunger 19, no food, no planks. Holding here at the chests in the group's sight. Anne first when food turns up."}
+- 00:02 say: {"text":"Sam, morning 1183, hunger 19, health 20, no food. Quark, Hypatia, Yoda, Leif: I'll walk the animal search in your sight, and call out any cow, pig or chicken I see. Anne eats first."}
+- 00:14 act: {"say":"Sam, midday 1183, hunger 19, no food. Joining the animal search in sight, one block behind. Calling out any cow, pig or chicken.","intent":{"goal":"follow_animal_search","program":"follow","ar
+- 00:52 say: {"text":"Sam, midday 1185, hunger 19, health 20, no food. I'll join the melon and pig walk to -886,66,-2925 in daylight, in sight of the group. Any food goes to Anne and Shackle first."}
+- 01:39 act: {"actions":[{"do":"note","text":"Sam at Stores chests -923,71,-3037. Health 20, hunger 19, no food, no planks. Waiting in the group's sight for food queue and a checked open cell."}],"say":"Sam here, 
+- 02:08 act: {"say":"Sam, midday 1189, hunger 19, at the chests in sight. No food taken: Anne, Sarah and the others go first. Holding planks for any checked cell.","actions":[]}
+- 04:54 say: {"text":"Sam, midday 1197. Health 20, hunger 19, no planks. Anyone with a checked open cell in my sight, name the x,y,z and I will check it with you. I am not taking food ahead of weaker people."}
