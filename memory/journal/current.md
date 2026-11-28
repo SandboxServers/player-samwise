@@ -35,3 +35,28 @@
 - 01:39 act: {"actions":[{"do":"note","text":"Sam at Stores chests -923,71,-3037. Health 20, hunger 19, no food, no planks. Waiting in the group's sight for food queue and a checked open cell."}],"say":"Sam here, 
 - 02:08 act: {"say":"Sam, midday 1189, hunger 19, at the chests in sight. No food taken: Anne, Sarah and the others go first. Holding planks for any checked cell.","actions":[]}
 - 04:54 say: {"text":"Sam, midday 1197. Health 20, hunger 19, no planks. Anyone with a checked open cell in my sight, name the x,y,z and I will check it with you. I am not taking food ahead of weaker people."}
+- 05:28 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3007}}],"say":"Going to the cow spot to the south. Will bring food back if I find it."}
+- 05:28 act: {"actions":[{"do":"unstick"}]}
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":-932,"y":75,"z":-3007}}]}
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":-940,"y":74,"z":-3007}}]}
+- 05:29 act: {"actions":[],"say":"Sam here, hungry, no food, and no cows in sight on the way west. Has anyone seen cows or chickens nearby? Anything spare would help."}
+- 05:31 act: {"actions":[],"say":"Thank you, Tanya. I am in your sight at -940,78,-3007. Taking the chicken now, and I will eat it."}
+- 05:32 act: {"actions":[],"say":"Sam here, I am in your reach, Tanya. Please give the chicken now. I have no food."}
+- 05:34 act: {"actions":[],"say":"Tanya, thank you. Please drop the chicken on the ground where you stand. I will step onto it, and I will not move until you have stepped back."}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-941,"y":78,"z":-3008}}],"say":"Tanya, thank you. I will step onto the ground where the chicken fell."}
+- 05:37 act: {"actions":[],"say":"Tanya, the chicken did not come to me, and I have nothing in my hands. Keep it for whoever is hungriest. Thank you for trying. I will stay in sight of the group tonight."}
+- 05:39 act: {"actions":[{"do":"give","to":"ag_zeoyellow_01","item":"dirt","count":1}],"say":"Morning. I am out of food, hunger 19. Tanya, if your raw chicken is still with you, I will take it now; I am standing i
+- 05:39 act: {"actions":[],"say":"Tanya, I gave you one dirt by mistake, sorry; please give it back if you can. Do you still have the raw chicken? I am hungry, hunger 19, and I will eat it at once."}
+- 05:40 act: {"actions":[],"say":"Sacagawea, Samwise here, hunger 19. I do not see you from where I stand at -941,78,-3006. Please walk to me, or tell me your spot and I will walk there with Tanya in sight. Thank 
+- 05:40 act: {"actions":[],"say":"Samwise here, Sacagawea. I am in your reach. Please give me the raw chicken. Thank you."}
+- 05:42 act: {"actions":[{"do":"eat"}],"say":"Thank you, Tanya and Sacagawea. I have the chicken and I am eating it now."}
+- 05:42 act: {"actions":[],"say":"I have the raw chicken safe in my pack. It can only be eaten at hunger 6 or below, so I will keep it until then. Thank you, all. Sacagawea, keep yours for the next hungriest."}
+- 05:46 act: {"actions":[],"say":"Samwise, afternoon 1200, hunger 19, health 20. I have no planks and no closed cell, and night is near. Tanya, if you can spare 2 dark oak planks, say my name and I will come alone
+- 05:47 act: {"actions":[],"say":"Chewie, thank you. I am at -941,78,-3006 with Tanya and Wcrusher in reach. I cannot see you now. Please walk here alone and say your name, and I will take the 2 oak planks. I will
+- 05:47 act: {"actions":[],"say":"Samwise here, Chewie. I am in your reach. Please give me the 2 oak planks. Wesley, I will also take your 2 birch planks, thank you both."}
+- 05:48 act: {"actions":[],"say":"Chewie, I will stay put so I am not walking alone. Please step 3 blocks away from Tanya and Wcrusher, toward you own side, and say so. Then I will hold still and you give me the p
+- 05:49 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Zombie to my south, attacking. I am fighting it with my sword."}
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":-943,"y":78,"z":-3007}}],"say":"I am coming back to the group near the crafting tables. Please stay put."}
+- 05:51 act: {"actions":[],"say":"Thank you, Wesley. I am holding still for the planks."}
+- 05:53 act: {"actions":[],"say":"Chewie, I stand at -943,78,-3006 in the open. Please give me 5 oak planks there. Thank you."}
+- 06:01 act: {"actions":[],"say":"Chewie, thank you. The others are close, so I will hold still. Give me the planks when you can, I will wait here."}
