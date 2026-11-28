@@ -62,3 +62,43 @@
 - 06:01 act: {"actions":[],"say":"Chewie, thank you. The others are close, so I will hold still. Give me the planks when you can, I will wait here."}
 - 06:18 act: {"say":"Sam, morning 1201. I hold 4 dirt, 3 sticks, a wooden sword and 1 chicken I will eat when hunger is 6. Chewie, I am still owed 2 oak planks; I will be here when you are clear of me.","intent":{
 - 06:19 act: {"say":"Chewie, thank you. Janeway and Wcrusher are within 2 blocks of me, so I am holding still. Hand the 2 oak planks over once they step back. I will not move.","intent":{"goal":"wait_for_planks","
+- 06:28 act: {"say":"Sam, dusk 1202. No planks yet, no cell, hunger 17, health 16. I'm staying here in sight of Tanya, Wesley and Kira through the night. Chewie, if you're still holding my 2 oak planks, give them 
+- 06:30 act: {"say":"Chewie, I am at exactly -943,78,-3006, standing on grass. Wcrusher is 2.3 blocks away and Tanya is beside me. Walk in and give the 2 oak planks when clear. Thank you.","intent":{"goal":"hold_f
+- 06:38 act: {"say":"Chewie, I am still at -943,78,-3006. Tanya is 1 block away and Wesley 2.3. Tanya, please step 3 blocks back and say so. Chewie, then walk to me and give the 2 oak planks. Thank you all."}
+- 06:44 say: {"text":"Chewie, thank you, I have the 2 oak planks. Wesley, I am still waiting on the 2 birch planks when you are ready."}
+- 06:46 act: {"actions":[{"do":"goto","target":{"x":-943,"y":78,"z":-3010}}],"say":"Wesley, I am now at -943,78,-3010, about 5 blocks from you. Toss the 2 birch planks to me here, or say if you want a different sp
+- 06:57 say: {"text":"Wesley, morning 1204. I am at -943,77,-3010 and still have no birch planks. When you pass nearby, toss them to me here, or tell me a spot. I hold 2 oak planks and 4 dirt."}
+- 07:04 act: {"say":"Katniss, Sam here, afternoon 1203. I hold 2 oak planks for the shared shelter at -933,74,-3023. I will walk there in daylight only if you or Kira stay in my sight. Tell me when it is clear to 
+- 07:07 act: {"say":"Katniss, Sam here, dusk 1204. I will not walk in the dark. I hold still at -943,77,-3010 in sight of Huck and Zeoyellow. At first light I will walk to your cell with my 2 oak planks. Keep the 
+- 07:10 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3005}}],"say":"Lizzie, Wesley, Sacagawea: Sam walking to you now in daylight. I place nothing; I will take Wesley's birch planks when offered."}
+- 07:10 act: {"actions":[],"say":"Wesley, Sam here at -952,78,-3005, in sight and in reach of you. Please toss the 2 birch planks now. I stay still and will catch them."}
+- 07:13 act: {"actions":[],"say":"Wesley, thank you, I have your 2 birch planks. Katniss, Sam here at midday 1204. I hold 2 oak planks and 2 birch planks. Is Kira or you in sight of my walk? Tell me when to come t
+- 07:23 act: {"actions":[],"say":"Katniss, Sam here, morning 1205. I hold 2 oak and 2 birch planks at -952,78,-3005. Is the walk to your cell at -933,74,-3023 clear, with you or Kira in sight? I go in daylight whe
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-935,"y":77,"z":-3019}}],"say":"Huck, Sam here, midday 1205. I walk with you now to Katniss's cell, in daylight and in your sight. I bring 2 oak and 2 birch plan
+- 07:38 act: {"actions":[],"say":"Sam here, midday 1205, at -935,76,-3019 with Huck in reach. I see Katniss's cell but not clearly its west face. Katniss, name the open cell on your left and we will both view it. 
+- 07:40 act: {"actions":[],"say":"Sam, view from -935,76,-3019 facing east: open air above on the left and ahead, grass on the level, oak_planks 4 blocks down on the left. I cannot yet name -932,74,-3024 as walled
+- 07:42 act: {"actions":[],"say":"Sam, afternoon 1205, still at -935,76,-3019 with Huck. Sun is getting low. I place nothing blind. Katniss, if you can see -932,74,-3024 from your side, say open or walled and I wi
+- 07:49 act: {"actions":[],"say":"Sam, midday 1206, at -935,76,-3019 with Huck. Huck says the west gap is still not walled from his view. Katniss, if you or anyone can name a face as walled from two viewers, I wil
+- 07:53 act: {"actions":[],"say":"Sam, afternoon 1206, still at -935,76,-3019 with Huck. I hold 2 oak and 2 birch planks. Huck, I can walk with you to a tree in daylight if you name it. Nobody places until two vie
+- 08:06 act: {"actions":[],"say":"Sam, midday 1207, at -935,76,-3019 with Huck in reach, hunger 17, health 16. Huck, I can give you my 2 birch planks now for your shelter, in sight and with nobody within 2 blocks 
+- 08:13 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"birch_planks","count":2}],"say":"Sam, morning 1207: giving Huck my 2 birch planks now, as I said. I keep my 2 oak planks until a cell is confirmed."}
+- 08:17 say: {"text":"Sam, midday 1207: Huck has my 2 birch planks. I hold 2 oak planks for a closed cell. Anning, I have not seen your gap from here, so I name nothing. I hold still in Huck's sight."}
+- 08:29 say: {"text":"Sam, midday 1208: I hold 2 oak planks for a checked cell. Huck, if a group walks to a tree in daylight, I will walk with you in sight. I place nothing until two viewers name a cell."}
+- 08:49 say: {"text":"Sam, morning 1210: Lizzie, I have 2 oak planks. If you need one for your north face, I will walk to you in daylight with Huck in sight. Tell me when you are ready, and I will place nothing my
+- 09:10 say: {"text":"Sam, afternoon 1210. Huck, I can't reach the oak at -998,87,-2969 and be back before dusk, so I'll hold here. Let's go at first light tomorrow, and I'll walk with you then."}
+- 09:18 say: {"text":"Sam, midday 1211. Huck, I'm still here in your sight. If you want to walk to the oak at -998,87,-2969 now, I'll come with you and be back before dusk."}
+- 09:22 act: {"intent":{"goal":"follow_huck_to_oak","program":"follow","arguments":{"target":"ag_huck_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"ma
+- 09:31 act: {"intent":{"goal":"walk_to_oak_with_huck","program":"travel","arguments":{"target":{"x":-998,"y":87,"z":-2969}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_wor
+- 09:32 act: {"actions":[{"do":"break","at":{"x":-998,"y":88,"z":-2969}}],"say":"Sam, at the oak. I'm breaking the log at -998,88,-2969 for you, Huck."}
+- 09:32 say: {"text":"Sam, midday 1211. I broke one oak log at -998,88,-2969. I hold it for you, Huck. Come within reach and I'll hand it over."}
+- 09:37 say: {"text":"Sam, afternoon 1211. Sun is low and I'm perched on oak leaves at -997,88,-2968, about 8 blocks up, far from my cell. Huck, Troi, I'll hold still here near the log. If you are in sight, tell m
+- 09:43 say: {"text":"Troi, Huck: I am perched on the oak leaves above you, with no shelter. I hold one oak log for Huck and will bring it down when I can reach the ground safely."}
+- 09:46 act: {"actions":[{"do":"goto","target":{"x":-999,"y":80,"z":-2964}}],"say":"Huck, I am coming down through the leaves to you now."}
+- 09:46 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"oak_log","count":1}],"say":"Huck, here is the oak log."}
+- 09:50 say: {"text":"Huck, dusk is here and I have no cell. I hold 2 oak planks and will keep still beside you in your sight, and I will not walk in the dark."}
+- 09:58 act: {"actions":[],"intent":{"goal":"follow_huck_to_oak","program":"follow","arguments":{"target":"ag_huck_01"},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block
+- 10:10 say: {"text":"Huck, Troi: morning. I am at -999,80,-2962 on the grass, unharmed, and I hold 2 oak planks. I can't see you from here; I will stay still until you come into my sight."}
+- 10:14 say: {"text":"Huck, I came down through the leaves by a goto to the grass; I know no clear way up. Keep the oak log up there for now, and do not climb alone. I stay still here."}
+- 10:20 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 10:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-1000,"y":64,"z":-2961}}],"say":"Dusk. I am closing the air above me with planks to make a shelter."}
+- 10:35 say: {"text":"Sam here, alone at -1000, 63, -2961. Huck, Troi, Chewie, if you are near, call out."}
