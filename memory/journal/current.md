@@ -60,3 +60,5 @@
 - 05:51 act: {"actions":[],"say":"Thank you, Wesley. I am holding still for the planks."}
 - 05:53 act: {"actions":[],"say":"Chewie, I stand at -943,78,-3006 in the open. Please give me 5 oak planks there. Thank you."}
 - 06:01 act: {"actions":[],"say":"Chewie, thank you. The others are close, so I will hold still. Give me the planks when you can, I will wait here."}
+- 06:18 act: {"say":"Sam, morning 1201. I hold 4 dirt, 3 sticks, a wooden sword and 1 chicken I will eat when hunger is 6. Chewie, I am still owed 2 oak planks; I will be here when you are clear of me.","intent":{
+- 06:19 act: {"say":"Chewie, thank you. Janeway and Wcrusher are within 2 blocks of me, so I am holding still. Hand the 2 oak planks over once they step back. I will not move.","intent":{"goal":"wait_for_planks","
